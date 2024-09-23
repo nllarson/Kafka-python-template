@@ -1,0 +1,20 @@
+{
+  "doc": "Sample User schema to help you get started.",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "favorite_number",
+      "type": "long"
+    },
+    {
+      "name": "favorite_color",
+      "type": "string"
+    }
+  ],
+  "name": "user",
+  "namespace": "com.improving.demo",
+  "type": "record"
+}
